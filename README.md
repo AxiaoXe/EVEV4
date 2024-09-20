@@ -1,1 +1,1 @@
-sudo apt-get install libjudy-dev
+sudo apt-get install libjudy-dev -y
